@@ -1,4 +1,6 @@
-### SYNCHRONOUS-UP-COUNTER
+# EXP:11: SYNCHRONOUS UP COUNTER
+## NAME:MOHAMMED HAMZA
+## reg no:24900511
 
 **AIM:**
 
@@ -31,16 +33,16 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 /* write all the steps invloved */
 
 **PROGRAM**
+![EXP 11 CODE](https://github.com/user-attachments/assets/00f0bc81-7d59-41c0-a723-64f4dea79049)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:
-*/
 
 **RTL LOGIC UP COUNTER**
+![EXP 11 TRUTH](https://github.com/user-attachments/assets/f7c0c837-255d-49f5-a554-fe5e9012a0c8)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![EXP 11 RTL](https://github.com/user-attachments/assets/9969ddc9-1815-45a0-a54c-30a149a08390)
 
 **TRUTH TABLE**
+![EXP 11 RTL OUTPUT](https://github.com/user-attachments/assets/f48e6c5e-db40-42ee-beb5-c15f96807937)
 
 **RESULTS**
